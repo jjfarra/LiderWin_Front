@@ -60,5 +60,8 @@
     ]
   },
   "keywords": [],
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "axios": "^1.2.2"
+  }
 }
